@@ -1,5 +1,5 @@
 # clients_simulator
 Retrieve an array of customers
 
-~~~json
+~~~javascript
 ## Api with a list of clients
