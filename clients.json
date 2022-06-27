@@ -1,50 +1,50 @@
 [
   {
-    name: "Jonas",
-    email: "jonas@email.com",
-    age: 25,
-    cpf: 245677676,
-    rg: 34234565
+    "name": "Jonas",
+    "email": "jonas@email.com",
+    "age": 25,
+    "cpf": 245677676,
+    "rg": 34234565
+  },"
+  
+  {
+    "name": "Joana",
+    "email": "joana@email.com",
+    "age": 30,
+    "cpf": 243564674,
+    "rg": 2345565
   },
   
   {
-    name: "Joana",
-    email: "joana@email.com",
-    age: 30,
-    cpf: 243564674,
-    rg: 2345565
+    "name": "Pedro",
+    "email": "pedro@email.com",
+    "age": 15,
+    "cpf": 134355656,
+    "rg": 12342554
   },
   
   {
-    name: "Pedro",
-    email: "pedro@email.com",
-    age: 15,
-    cpf: 134355656,
-    rg: 12342554
+    "name": "Laura",
+    "email": "laura@email.com",
+    "age": 45,
+    "cpf": 123435656,
+    "rg": 24356646
   },
   
   {
-    name: "Laura",
-    email: "laura@email.com",
-    age: 45,
-    cpf: 123435656,
-    rg: 24356646
+    "name": "Lucas",
+    "email": "lucas@email.com",
+    "age": 22,
+    "cpf": 134354667,
+    "rg": 56577687
   },
   
   {
-    name: "Lucas",
-    email: "lucas@email.com",
-    age: 22,
-    cpf: 134354667,
-    rg: 56577687
-  },
-  
-  {
-    name: "Lana",
-    email: "lana@email.com",
-    age: 28,
-    cpf: 123435656,
-    rg: 24356546
+    "name": "Lana",
+    "email": "lana@email.com",
+    "age": 28,
+    "cpf": 123435656,
+    "rg": 24356546
   }
   
 ]
